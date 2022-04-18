@@ -1,0 +1,46 @@
+h1{  
+    color:#32afb2;
+    font-family:arial;
+    font: size 35px;
+}
+h2{  
+    color:#313844;
+    font-family:arial;
+    font: size 14px;
+}
+h3{  
+    color:#32afb2;
+    font-family:arial;
+    font: size 12px;
+}
+h4{  
+    color:#313844;
+    font-family:arial;
+    font: size 10px;
+}   
+img{
+    width: 260px;
+    height: 200px;
+}
+p{  
+    color: #313844;
+    font-family:arial;
+    font: size 7px;
+}
+ul{  
+    color: #313844;
+    font-family:arial;
+    font: size 7px;
+}
+#ColumnaIzquierda{
+    width: 260px;
+    margin-left: 0%;
+    margin-right: 0%;
+    text-align: justify;
+}   
+#ColumnaDerecha{
+    width: 560px;
+    margin-left: 0%;
+    margin-right: 0%;
+    text-align: justify;
+}   
